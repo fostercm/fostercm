@@ -11,6 +11,8 @@ With over 3 years of experience in AI and software, I'm on a mission to create t
   - ⚡ Fun fact: I love climbing and hiking
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/cole-michael-foster" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Cole_Foster" height="40" width="60" ></i>
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fostercm&label=Profile%20views&color=0e75b6&style=flat" alt="fostercm" /> </p>
 
 
