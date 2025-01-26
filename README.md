@@ -48,15 +48,15 @@ With over 3 years of experience in AI and software, I'm on a mission to create t
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,idea"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,clion,idea,pycharm"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/></td>
     </tr>
 </table>
 
