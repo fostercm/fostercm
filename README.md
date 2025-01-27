@@ -6,7 +6,7 @@ With over 3 years of experience in AI and software, I'm on a mission to create t
 
 
   - 🔭 I'm currently working on a graph transformer model to increase the speed at which we research drugs
-  - 🌱 I’m currently learning; CUDA, Docker, Kubernetes
+  - 🌱 I’m currently learning; CUDA, C++, Docker, Kubernetes
   - 💬 Ask me about **Machine Learning, Python, PyTorch, C, and SQL**
   - ⚡ Fun fact: I love climbing and hiking
 
