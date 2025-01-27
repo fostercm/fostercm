@@ -7,7 +7,7 @@ With over 3 years of experience in AI and software, I'm on a mission to create t
 
   - 🔭 I'm currently working on a graph transformer model to increase the speed at which we research drugs
   - 🌱 I’m currently learning; C++, Docker, Kubernetes
-  - 💬 Ask me about **Python, PyTorch, R, SQL, MATLAB, Java, C**
+  - 💬 Ask me about **Machine Learning, Python, PyTorch, C, and SQL**
   - ⚡ Fun fact: I love climbing and hiking
 
 <h3 align="left">Connect with me:</h3>
@@ -48,7 +48,7 @@ With over 3 years of experience in AI and software, I'm on a mission to create t
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,cmake"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
