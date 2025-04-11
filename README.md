@@ -21,7 +21,7 @@ With over 3 years of experience in AI and software, I'm on a mission to create t
 
 <div align="center">
   <a href="https://github.com/fostercm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fostercm&show_icons=true&locale=en&layout=compact&theme=tokyonight&v=8" alt="fostercm"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fostercm&show_icons=true&locale=en&layout=compact&theme=tokyonight&v=9" alt="fostercm"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fostercm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fostercm"/>
   </a>
 </div>
